@@ -12,6 +12,10 @@ A proposta inclui leitura de fontes confiáveis, elaboração de perguntas estra
 * Fundação Getulio Vargas (FGV) – conceitos econômicos
 * Serasa – impacto da inflação no dia a dia
 
+* ## Notebook utilizado
+Acesse o NotebookLM com os materiais e interações:
+https://notebooklm.google.com/notebook/95f2e444-837e-4a2d-ba54-54ebe212d51a
+
 ## Perguntas de estudo
 
 * O que é inflação?
